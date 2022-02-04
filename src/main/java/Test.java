@@ -9,5 +9,8 @@
  * @author Boon
  */
 public class Test {
-    
+
+    public Test() {
+    }
+
 }
